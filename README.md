@@ -47,6 +47,6 @@ https://www.kaggle.com/code/zahrasahebari/marketing-campaign-analysis-customer-r
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/zahra-sahebari/*
 - 📊 Kaggle: https://www.kaggle.com/zahrasahebari
 - 💻 GitHub: https://github.com/zahrasahebari
