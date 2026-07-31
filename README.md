@@ -1,52 +1,59 @@
-# Hi there, I'm Zahra Sahebari 👋
+# Zahra Sahebari
 
-🎓 **MSc Business Analytics**
+**Data Analyst | MSc Business Analytics (Distinction)**
 
-I am an aspiring **Data Analyst** with a passion for transforming data into meaningful business insights. I enjoy solving business problems through data analysis, statistical methods, and data visualisation while continuously expanding my technical skills.
-
----
+I am a Data Analyst with a background in Business Analytics and hands-on experience transforming data into actionable business insights. I enjoy solving business problems through data analysis, business intelligence, statistical modelling, and data visualisation.
 
 ## 💻 Technical Skills
 
-- Python
+- PostgreSQL
 - SQL
-- pandas
-- NumPy
-- Matplotlib
-- SciPy
+- Python (pandas, NumPy, scikit-learn)
+- Power BI
 - Tableau
 - Microsoft Excel
+- Matplotlib
+- SciPy
+
+## 🚀 Featured Projects
+
+### 📊 E-commerce Sales Analysis using SQL & Power BI
+
+An end-to-end Business Intelligence project analysing 34,500 e-commerce transactions using PostgreSQL, SQL, and Power BI. The project includes data quality assessment, KPI reporting, business analysis, and interactive dashboard development.
+
+**Technologies:** PostgreSQL • SQL • Power BI
+
+🔗 **GitHub Repository**  
+https://github.com/zahrasahebari/E-commerce-Sales-Analysis
+
+🔗 **Kaggle Notebook**  
+https://www.kaggle.com/code/zahrasahebari/e-commerce-sales-analysis-sql-power-bi
 
 ---
 
-## 🚀 Featured Project
+### 📈 Marketing Campaign Analysis
 
-### 📊 Marketing Campaign Analysis
-
-A business analytics project investigating customer characteristics associated with marketing campaign response using exploratory data analysis and statistical hypothesis testing.
+A customer analytics project investigating marketing campaign response using exploratory data analysis and statistical hypothesis testing.
 
 **Technologies:** Python • pandas • Matplotlib • SciPy
 
-🔗 GitHub Repository:
+🔗 **GitHub Repository**  
 https://github.com/zahrasahebari/marketing-campaign-analysis
 
-🔗 Kaggle Notebook:
+🔗 **Kaggle Notebook**  
 https://www.kaggle.com/code/zahrasahebari/marketing-campaign-analysis-customer-response-ins
-
----
 
 ## 🌱 Currently Learning
 
 - Advanced SQL
 - Machine Learning with Python
-- Power BI
 - A/B Testing
 - Data Storytelling
 
----
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/zahra-sahebari/*
-- 📊 Kaggle: https://www.kaggle.com/zahrasahebari
-- 💻 GitHub: https://github.com/zahrasahebari
+💼 **LinkedIn**  
+https://www.linkedin.com/in/zahra-sahebari/
+
+📊 **Kaggle**  
+https://www.kaggle.com/zahrasahebari
