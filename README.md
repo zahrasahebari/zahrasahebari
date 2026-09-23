@@ -29,6 +29,8 @@ https://github.com/zahrasahebari/Mobile-Game-Retention-AB-Testing
 🔗 **Interactive Tableau Dashboard**  
 https://public.tableau.com/views/mobile_game_retention_dashboard_working/RevenueandConversion
 
+---
+
 ### 📊 E-commerce Sales Analysis using SQL & Power BI
 
 An end-to-end Business Intelligence project analysing 34,500 e-commerce transactions using PostgreSQL, SQL, and Power BI. The project includes data quality assessment, KPI reporting, business analysis, and interactive dashboard development.
