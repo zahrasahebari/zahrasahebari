@@ -17,6 +17,18 @@ I am a Data Analyst with a background in Business Analytics and hands-on experie
 
 ## 🚀 Featured Projects
 
+### 🎮 Mobile Game Retention & A/B Testing
+
+An end-to-end product analytics case study examining exact-day player retention, monthly cohort behaviour, payer conversion, monetisation, revenue concentration, and A/B-test performance. The project combines PostgreSQL analysis, Python statistical testing, and two interactive Tableau dashboards.
+
+**Technologies:** PostgreSQL • SQL • Python • pandas • SciPy • Tableau
+
+🔗 **GitHub Repository**  
+https://github.com/zahrasahebari/Mobile-Game-Retention-AB-Testing
+
+🔗 **Interactive Tableau Dashboard**  
+https://public.tableau.com/views/mobile_game_retention_dashboard_working/RevenueandConversion
+
 ### 📊 E-commerce Sales Analysis using SQL & Power BI
 
 An end-to-end Business Intelligence project analysing 34,500 e-commerce transactions using PostgreSQL, SQL, and Power BI. The project includes data quality assessment, KPI reporting, business analysis, and interactive dashboard development.
@@ -47,7 +59,7 @@ https://www.kaggle.com/code/zahrasahebari/marketing-campaign-analysis-customer-r
 
 - Advanced SQL
 - Machine Learning with Python
-- A/B Testing
+- Advanced Experiment Design
 - Data Storytelling
 
 ## 📫 Connect With Me
