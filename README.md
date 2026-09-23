@@ -2,18 +2,16 @@
 
 **Data Analyst | MSc Business Analytics (Distinction)**
 
-I am a Data Analyst with a background in Business Analytics and hands-on experience transforming data into actionable business insights. I enjoy solving business problems through data analysis, business intelligence, statistical modelling, and data visualisation.
+I am a data analyst with a background in business analytics and hands-on experience transforming complex data into actionable business insights. I use SQL, Python, Power BI, and Tableau to conduct statistical analysis, develop interactive dashboards, evaluate business performance, and communicate evidence-based recommendations.
 
 ## 💻 Technical Skills
 
-- PostgreSQL
-- SQL
-- Python (pandas, NumPy, scikit-learn)
-- Power BI
-- Tableau
-- Microsoft Excel
-- Matplotlib
-- SciPy
+- **Databases and Querying:** PostgreSQL, SQL
+- **Programming and Analysis:** Python, pandas, NumPy, SciPy, statsmodels, scikit-learn
+- **Business Intelligence:** Power BI, Tableau
+- **Data Visualisation:** Matplotlib, Seaborn
+- **Tools:** Microsoft Excel, Jupyter Notebook, Git, GitHub
+- **Analytical Methods:** Exploratory data analysis, A/B testing, hypothesis testing, cohort analysis, retention analysis, statistical modelling, and KPI reporting
 
 ## 🚀 Featured Projects
 
